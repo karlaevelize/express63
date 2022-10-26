@@ -1,4 +1,4 @@
-## Start an Express Server
+# Start an Express Server
 
 1. `npm init --y` -> it creates a package.json (it lists all our dependencies)
 2. `npm install express`
